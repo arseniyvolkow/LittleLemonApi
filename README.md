@@ -1,5 +1,5 @@
 # LittleLemonApi
-Welcome to the Little Lemon Restaurant API! This project was created as part of a course on backend web development to demonstrate how to build a fully functioning API for a restaurant. Developers can use these APIs to develop web and mobile applications for browsing menus, placing orders, managing deliveries, and more.
+Welcome to the Little Lemon Restaurant API! This fully functioning API for a restaurant was created as part of a course on backend web development. Developers can use these APIs to develop web and mobile applications for browsing menus, placing orders, managing deliveries, and more.
 ## Table of Contents
 
 - [Installation](#installation)
